@@ -1,0 +1,10 @@
+C:\Dev\Aquira-Main-JKaur\PointOfSaleTerminal\PointOfSaleTerminal\obj\Debug\netcoreapp3.0\PointOfSaleTerminal.AssemblyInfoInputs.cache
+C:\Dev\Aquira-Main-JKaur\PointOfSaleTerminal\PointOfSaleTerminal\obj\Debug\netcoreapp3.0\PointOfSaleTerminal.AssemblyInfo.cs
+C:\Dev\Aquira-Main-JKaur\PointOfSaleTerminal\PointOfSaleTerminal\bin\Debug\netcoreapp3.0\PointOfSaleTerminal.exe
+C:\Dev\Aquira-Main-JKaur\PointOfSaleTerminal\PointOfSaleTerminal\bin\Debug\netcoreapp3.0\PointOfSaleTerminal.deps.json
+C:\Dev\Aquira-Main-JKaur\PointOfSaleTerminal\PointOfSaleTerminal\bin\Debug\netcoreapp3.0\PointOfSaleTerminal.runtimeconfig.json
+C:\Dev\Aquira-Main-JKaur\PointOfSaleTerminal\PointOfSaleTerminal\bin\Debug\netcoreapp3.0\PointOfSaleTerminal.runtimeconfig.dev.json
+C:\Dev\Aquira-Main-JKaur\PointOfSaleTerminal\PointOfSaleTerminal\bin\Debug\netcoreapp3.0\PointOfSaleTerminal.dll
+C:\Dev\Aquira-Main-JKaur\PointOfSaleTerminal\PointOfSaleTerminal\bin\Debug\netcoreapp3.0\PointOfSaleTerminal.pdb
+C:\Dev\Aquira-Main-JKaur\PointOfSaleTerminal\PointOfSaleTerminal\obj\Debug\netcoreapp3.0\PointOfSaleTerminal.dll
+C:\Dev\Aquira-Main-JKaur\PointOfSaleTerminal\PointOfSaleTerminal\obj\Debug\netcoreapp3.0\PointOfSaleTerminal.pdb
