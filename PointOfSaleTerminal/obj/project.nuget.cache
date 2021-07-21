@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2b9lGrMBgn2ICfa+aHyr+f7LA1H5l1oXaisrg1Je2ZB2hqA9+kegGYrFSKvLR7CKrinHFlHwl6rO/b6vh8jrDA==",
+  "dgSpecHash": "KG84MQ/hVCQ3cUNdJExMf8GlCuWTcEbY0wTD3NrG7bwooQvyvW1jWzDixFd6SaTfBeg4BvsjK8twIok79Q0/SA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jaipr\\OneDrive\\Desktop\\PointOfSaleTerminal\\PointOfSaleTerminal\\PointOfSaleTerminal\\PointOfSale.csproj",
+  "projectFilePath": "C:\\Users\\jaipr\\source\\repos\\PointOfSaleTerminal\\PointOfSaleTerminal\\PointOfSaleTerminal\\PointOfSale.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jaipr\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
     "C:\\Users\\jaipr\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",

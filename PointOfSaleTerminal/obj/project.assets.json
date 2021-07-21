@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jaipr\\OneDrive\\Desktop\\PointOfSaleTerminal\\PointOfSaleTerminal\\PointOfSaleTerminal\\PointOfSale.csproj",
+      "projectUniqueName": "C:\\Users\\jaipr\\source\\repos\\PointOfSaleTerminal\\PointOfSaleTerminal\\PointOfSaleTerminal\\PointOfSale.csproj",
       "projectName": "PointOfSale",
-      "projectPath": "C:\\Users\\jaipr\\OneDrive\\Desktop\\PointOfSaleTerminal\\PointOfSaleTerminal\\PointOfSaleTerminal\\PointOfSale.csproj",
+      "projectPath": "C:\\Users\\jaipr\\source\\repos\\PointOfSaleTerminal\\PointOfSaleTerminal\\PointOfSaleTerminal\\PointOfSale.csproj",
       "packagesPath": "C:\\Users\\jaipr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jaipr\\OneDrive\\Desktop\\PointOfSaleTerminal\\PointOfSaleTerminal\\PointOfSaleTerminal\\obj\\",
+      "outputPath": "C:\\Users\\jaipr\\source\\repos\\PointOfSaleTerminal\\PointOfSaleTerminal\\PointOfSaleTerminal\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

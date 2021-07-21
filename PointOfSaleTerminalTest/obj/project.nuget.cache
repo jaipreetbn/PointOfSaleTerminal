@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "h6iT2P17fvnuSAyiS29KzXitzGCq11PCBiwwMWhNgRgvhNxQhG1LNv4O62QaIpSYIC+qgrFm/NoqfOJSKrEwDQ==",
+  "dgSpecHash": "VcrgeyfoOrHY0Yn57mFirGMo97rD6x1UrzK+WAIuMWvkcte6WRjSlhjoTh78DX00WZl7x88FKlqR/W7c8rBxjA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jaipr\\OneDrive\\Desktop\\PointOfSaleTerminal\\PointOfSaleTerminal\\PointOfSaleTerminalTest\\PointOfSaleTerminalTest.csproj",
+  "projectFilePath": "C:\\Users\\jaipr\\source\\repos\\PointOfSaleTerminal\\PointOfSaleTerminal\\PointOfSaleTerminalTest\\PointOfSaleTerminalTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jaipr\\.nuget\\packages\\microsoft.codecoverage\\16.2.0\\microsoft.codecoverage.16.2.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
