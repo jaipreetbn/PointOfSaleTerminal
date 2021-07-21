@@ -1,1 +1,1 @@
-# PointOfSaleTeminal
+# PointOfSaleTerminal
